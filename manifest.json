@@ -1,0 +1,19 @@
+
+{
+  "name": "KESHAN FUN GAME V2",
+  "short_name": "KESHAN GAME",
+  "description": "Neon Block Puzzle Game",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#ff2020",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
